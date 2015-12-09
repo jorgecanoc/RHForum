@@ -19,6 +19,13 @@ Esta aplicacion fue desarrollada para realizar un concurso a manera de tombola d
     
 
 
-System Requirements
+Snapshoots
 -------------------
+
+<a href='http://postimage.org/' target='_blank'><img src='http://s8.postimg.org/3kw6s6ykl/Captura_de_pantalla_de_2015_12_09_10_27_55.png' border='0' alt="Captura de pantalla de 2015 12 09 10 27 55" /></a><br /><a target='_blank' href='http://postimage.org/index.php?lang=spanish'>subir gif</a><br /><br />
+
+<a href='http://postimage.org/' target='_blank'><img src='http://s7.postimg.org/j5nbtrdnf/Captura_de_pantalla_de_2015_12_09_11_09_00.png' border='0' alt="Captura de pantalla de 2015 12 09 11 09 00" /></a><br /><a target='_blank' href='http://postimage.org/index.php?lang=spanish'>share image</a><br /><br />
+
+<a href='http://postimage.org/' target='_blank'><img src='http://s22.postimg.org/eunug9fkx/Captura_de_pantalla_de_2015_12_09_11_11_04.png' border='0' alt="Captura de pantalla de 2015 12 09 11 11 04" /></a><br /><a target='_blank' href='http://postimage.org/index.php?lang=spanish'>subir fotos a internet</a><br /><br />
+
 
